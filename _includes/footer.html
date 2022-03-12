@@ -10,18 +10,6 @@
     </div>
     <div class="footer-meta">
         <div class="footer-container">
-            <div class="meta-item meta-copyright">
-                <div class="meta-copyright-info">
-                    <a href="{{site.resume_site}}" class="info-logo">
-                        <img src="{{ '/style/image/logo.png' | prepend: site.baseurl }}" alt="wonder">
-                    </a>
-                    <div class="info-text">
-                        <p>Copyright &copy; 2016 - {{ site.time | date: '%Y' }} <a href="{{site.resume_site}}"><code>{{ site.author }}</code></a></p>
-                        <p>Powered by <a href="http://jekyllrb.com" target="_blank" rel="nofollow"><code>jekyll</code></a>.</p>
-                    </div>
-                </div>
-            </div>
-
             <div class="meta-item meta-posts">
                 <h3 class="meta-title">RECENT POSTS</h3>
                 {% for post in site.posts limit:7 %}
