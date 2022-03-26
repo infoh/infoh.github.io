@@ -1,7 +1,7 @@
-* 目录
+﻿* 目录
 {:toc}
 
-## What to eat on birthday
+## What do chinese eat on birthday
 
 We celebrated my nephew’s birthday earlier this month with a special dinner at home, with only the most immediate family members, partly because of the pandemic but also because hosting big birthday parties is never really our thing. It is hard to believe that my nephew is 19 when it seems only a short while ago that I was still carrying him in his swaddling clothes, and his sole means of communication was making baby noises and blowing spit bubbles.
 
