@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 一个 Jekyll 主题的获取与启用 on Mac
+date:   2022-03-25 00:00:00 +0800
+category: tutorial
+thumbnail: /style/image/thumbnail.jpg
+icon: book
 ---
 
 * 目录
@@ -64,17 +68,34 @@ gem install jekyll bundler
 
 #### 启用 Pinghsu Theme
 
-实际操作中，采取了删除 Gemfile.lock 文件的办法，避免安装旧版的 Ruby、gems 和 libruaries。删除后重新执行命令：
+实际操作中，进入主题目录后，首先执行命令：
+
+jekyll serve 
+
+出现错误提示：Could not find public_suffix-3.0.3 in any of the sources (Bundler::GemNotFound)。
+
+可能缺少必要的依赖关系，也可能此主题所要求的 gems 和 libraries 的版本太老，所以尝试命令 bundle install 和其它查看命令。经反复碰壁之后，采取了删除 Gemfile.lock 文件的办法，避免安装旧版的 Ruby、gems 和 libruaries。删除后，为安装必要的依赖关系重新执行命令：
 
 bundle install
 
-或可尝试修改 Gemfile 和 Gemfile.lock，添加版本信息，而不是暴力删除。
+结尾部分返回：Bundle complete! 5 Gemfile dependencies, 29 gems now installed.
+Use \`bundle info [gemname]` to see where a bundled gem is installed.
 
-提示缺少 Webrick 和 Rexml 之后进行了手动添加，
+命令执行成功。或可尝试修改 Gemfile 和 Gemfile.lock，添加版本信息，而不是暴力删除。
+
+执行命令：
+
+bundle exec jekyll serve
+
+提示缺少 Webrick 和 Rexml 之后进行了手动添加，执行两条命令：
 
 bundle add webrick
 
 bundle add rexml
+
+再次执行命令：
+
+bundle exec jekyll serve
 
 最终成功在本地 Mac 上运行并浏览。
 
