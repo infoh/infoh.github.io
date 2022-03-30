@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 一个 Jekyll 主题的获取与启用 on Mac
-date:   2022-03-25 00:00:00 +0800
 category: tutorial
-thumbnail: /style/image/thumbnail.jpg
+thumbnail: /style/image/thumbnail.png
 icon: book
 ---
 
