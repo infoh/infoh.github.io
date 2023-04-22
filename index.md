@@ -6,6 +6,5 @@ profile_picture:
 ---
 
 <p>
-  Welcome to my site!
+  I like Hangzhou not only because of her beauty, but also because of her stories. You will agree with me.
 </p>
-
