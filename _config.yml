@@ -44,12 +44,12 @@ footer:
 
 # Build settings
 markdown: kramdown
+kramdown:
+    math_engine: katex
 sass:
     style: :compressed
 plugins:
   - jekyll-feed
-kramdown:
-    math_engine: katex
 
 # Excluded items
 exclude:
