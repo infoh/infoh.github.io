@@ -48,6 +48,8 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
+kramdown:
+    math_engine: katex
 
 # Excluded items
 exclude:
