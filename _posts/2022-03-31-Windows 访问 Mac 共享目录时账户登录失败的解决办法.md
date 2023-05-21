@@ -3,11 +3,6 @@ layout: post
 title: Windows 访问 Mac 共享目录时账户登录失败的解决办法
 ---
 
-#### Table of Contents
-1. [Windows 访问 Mac 共享目录时账户登录失败的解决办法](#Windows-访问-Mac-共享目录时账户登录失败的解决办法)
-
-#### Windows 访问 Mac 共享目录时账户登录失败的解决办法
-
 
 
 Mac 采用 SMB 协议实现与 Windows 互访时的口令传输和身份验证。从 Windows 访问Mac共享目录时，账户登录失败的问题时有存在，通常表现为没有访问权限。从 Mac 访问 Windows 时，该类问题少见。此问题可以通过更改 Windows 的策略设置而解决。以 Windows XP 为例说明。
