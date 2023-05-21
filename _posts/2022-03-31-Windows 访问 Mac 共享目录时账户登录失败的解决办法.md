@@ -1,15 +1,12 @@
 ---
 layout: post
 title: Windows 访问 Mac 共享目录时账户登录失败的解决办法
-category: tutorial
-thumbnail: /style/image/thumbnail.png
-icon: book
 ---
-* content
-{:toc}
 
+#### Table of Contents
+1. [Windows 访问 Mac 共享目录时账户登录失败的解决办法](#Windows-访问-Mac-共享目录时账户登录失败的解决办法)
 
-## Windows 访问 Mac 共享目录时账户登录失败的解决办法
+#### Windows 访问 Mac 共享目录时账户登录失败的解决办法
 
 
 
