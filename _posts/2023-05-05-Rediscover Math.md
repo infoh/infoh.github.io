@@ -43,7 +43,7 @@ title:  "Rediscover Math"
 &ensp;&ensp;&ensp;&ensp;借助上图的直观表示，要做出正确选择并非一目了然。但如果转化为纯数字运算，则很快得到答案。上图给出如下已知条件：
 
 $$
-a=\vert a \vert, b=-\vert b \vert, 且 \vert a \vert < \vert b \vert
+a=\vert a \vert, b=-\vert b \vert, 且 \vert a \vert < \vert b \vert 
 $$
 &ensp;&ensp;&ensp;&ensp;则有：
 
