@@ -36,17 +36,13 @@ title:  "Rediscover Math"
 
 &ensp;&ensp;&ensp;&ensp;坐标系的优点显著，直观、便捷，不失形象化，这使它成为人们遇到实际问题时第一时间就会想到的工具。不过，形象化与直观的特点虽然有助于人们理解问题，但并不一定能揭示问题的本质。纯粹的数字运算反而更清晰准确，真正达到透过现象看本质的效果。因此要彻底解决问题，必须结合严谨的数学运算。以下例进一步说明。
 
-&ensp;&ensp;&ensp;&ensp;**例**：有理数 $a$、$b$  在数轴上的位置如图所示，则化简 $\vert a-b \vert - \vert a+b \vert$ 的结果是 (   )：A、$2a$      B、$2b$     C、$2a-2b$     D、$2a+b$。
-
-
+&ensp;&ensp;&ensp;&ensp;**例**：有理数 $a$、$b$  在数轴上的位置如图所示，则化简 $\vert a-b \vert - \vert a+b \vert$ 的结果是 (   )：A、$2a$      &ensp;&ensp;B、$2b$     &ensp;&ensp;C、$2a-2b$     &ensp;&ensp;D、$2a+b$。
 
 &ensp;&ensp;&ensp;&ensp;借助上图的直观表示，要做出正确选择并非一目了然。但如果转化为纯数字运算，则很快得到答案。上图给出如下已知条件：
-
 $$
-a=\vert a \vert, b=-\vert b \vert, 且 \vert a \vert < \vert b \vert 
+a=\vert a \vert, b=-\vert b \vert, 且 \vert a \vert < \vert b \vert
 $$
 &ensp;&ensp;&ensp;&ensp;则有：
-
 $$
 \vert a-b \vert - \vert a+b \vert =\vert \vert a \vert + \vert b \vert \vert - \vert \vert a \vert - \vert b \vert \vert= \vert a \vert + \vert b \vert - (\vert b \vert - \vert a \vert) = 2 \vert a \vert =  2 a
 $$
