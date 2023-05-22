@@ -38,7 +38,7 @@ title:  "Rediscover Math"
 
 &ensp;&ensp;&ensp;&ensp;**例**：有理数 $a$、$b$  在数轴上的位置如图所示，则化简 $\vert a-b \vert - \vert a+b \vert$ 的结果是 (   )：A、$2a$      &ensp;&ensp;B、$2b$     &ensp;&ensp;C、$2a-2b$     &ensp;&ensp;D、$2a+b$。
 
-![][1]
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;![][1]
 
 借助上图的直观表示，要做出正确选择并非一目了然。但如果转化为纯数字运算，则很快得到答案。上图给出如下已知条件：
 
