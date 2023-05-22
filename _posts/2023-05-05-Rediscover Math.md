@@ -3,14 +3,8 @@ layout: post
 title:  "Rediscover Math"
 ---
 
-#### Table of Contents
-1. [Part 1](#part-1)
-2. [负数是否是“具有方向的数”](#负数是否是“具有方向的数”)
-    * [Part 2 Sub-part 1](#part-2-sub-part-1)
-    * [Part 2 Sub-part 2](#part-2-sub-part-2)
-3. [Footnotes](#footnotes)
-
-#### PART 1
+* content
+{:toc}
 
 &ensp;&ensp;&ensp;&ensp;读书讲究温故知新，说的是即使想获得新的知识，也可以通过温故的方法来达到。这种“知新”的神奇效果，其背后的道理却可能很现实。往往文中作者的明确表达以及字里行间的暗示，由于各种原因被读者忽视甚至视而不见，比如年少生活经验不足导致理解力不够，而更多的情况其实是思想不集中。最近突发奇想后重读初等数学，仿佛有故地重游之感。故地重游侧重于念旧，温故知新侧重于知新，何乐而不为呢？
 
