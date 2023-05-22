@@ -46,7 +46,9 @@ title:  "Rediscover Math"
 
 &ensp;&ensp;&ensp;&ensp;则有：
 
-&ensp;&ensp;&ensp;&ensp;$$\vert a-b \vert - \vert a+b \vert =\vert \vert a \vert + \vert b \vert \vert - \vert \vert a \vert - \vert b \vert \vert = \vert a \vert + \vert b \vert - (\vert b \vert - \vert a \vert) = 2 \vert a \vert =  2 a $$ 
+&ensp;&ensp;&ensp;&ensp;$$\vert a-b \vert - \vert a+b \vert =\vert \vert a \vert + \vert b \vert \vert - \vert \vert a \vert - \vert b \vert \vert $$
+
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;$$ = \vert a \vert + \vert b \vert - (\vert b \vert - \vert a \vert) = 2 \vert a \vert =  2 a $$ 
 
 
 
