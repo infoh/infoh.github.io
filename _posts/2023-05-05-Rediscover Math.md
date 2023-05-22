@@ -8,7 +8,7 @@ title:  "Rediscover Math"
 
 #### Table of Contents
 1. [由顺序到数量再到 0](#由顺序到数量再到-0)
-2. [负数是否是“具有方向的数”](#负数是否是&quot具有方向的数&quot)
+2. [负数是否是“具有方向的数”](#负数是否是&quot;具有方向的数&quot;)
     * [Part 2 Sub-part 1](#part-2-sub-part-1)
     * [Part 2 Sub-part 2](#part-2-sub-part-2)
 3. [Footnotes](#footnotes)
