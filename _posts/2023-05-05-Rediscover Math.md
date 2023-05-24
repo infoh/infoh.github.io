@@ -60,7 +60,7 @@ $$
 
 
 
-##### References:
+#### References:
 
 [^1]: [”负数的产生经历了漫长且曲折的过程“](https://baijiahao.baidu.com/s?id=1743286667990552467&wfr=spider&for=pc)
 [^2]: [”The History of Negative Numbers“](https://nrich.maths.org/5961)
