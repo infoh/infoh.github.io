@@ -65,7 +65,7 @@ $$
 [^1]: aaaaaa
 [^2]: [”The History of Negative Numbers“](https://nrich.maths.org/5961)
 [^3]: [“虚数的意义”](https://open.toutiao.com/a6904876561024025099/?utm_source=vivoliulanqi&utm_medium=webview&utm_campaign=open&label=related_news&item_id=&gy=ec082d669a99cc8c72b9c1dd86b09e461fd92213c0734987c6fbcf417c2abd0299e9c9f27b0db00f5db39d35270c9fbe27025a9b0f0dafa1eb76cea0019e8451ba1edfb4d894adaf9cd1a6dcaba22db52fabd4c8aff9ad97690d107b7a111ff4dedcf9cffceab2e1bb5530f34cadd37649e80c3dd32cc1c26c0362288d288566b6dfa0defc5ff4b7e3b31561b4a2b26a&crypt=4328&isNews=1&req_id=20210805165220010212138134141E1565&fr=normal&isRelated=1&vivoRcdMark=1&from_gid=6976775123210666503&channel_id=88805669586)
-[^4]: [“闲话复数（1） | 不现实的虚数 i 为什么虚？它长成什么样？” ](https://www.cnblogs.com/bigmonkey/p/11908503.html)
+[^4]: [“闲话复数（1）不现实的虚数 i 为什么虚？它长成什么样？” ](https://www.cnblogs.com/bigmonkey/p/11908503.html)
 [^5]: [“趣味数学故事-意大利专题：卡尔达诺（二）”](https://zhuanlan.zhihu.com/p/116090728)
 [^6]: [““向量”的前世今生：8位天才数学家，耗时2000年完成”](https://www.sohu.com/a/425733060_348129)
 
