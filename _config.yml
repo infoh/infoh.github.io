@@ -25,8 +25,7 @@ footer:
       value: yourmail@domain.com
       link: mailto:yourmail@domain.com
     - name: WeChat
-      # value: YourWeChatUsername
-      value: wechat_username
+      value: YourWeChatUsername1
       link: "#"
   follow:
     - name: Twitter
