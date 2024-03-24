@@ -2,15 +2,18 @@
 layout: post
 title:  "The young are now most unhappy people in the United States, new report shows"
 ---
+* content
+{:toc}
+
 
 #### Table of Contents
 1. [What is causing the dissatisfaction?](#What is causing the dissatisfaction?)
 2. [Will this only get worse?](#Will this only get worse?)
 3. [Optimism for the young](#Optimism for the young)
 
-   
 
 Christopher Cann, USA TODAY, March 21, 2024
+
 *A new World Happiness Report shows that young people are the most unhappy among Americans.*
 
 Happiness and well-being among Americans has recently plummeted and a new cohort is leading the downward spiral: young people.
@@ -25,7 +28,7 @@ Recent studies have shown suicide rates among young people in the U.S. has surge
 
 “Youths have reached the point of a midlife crisis – today,” said Jan-Emmanuel De Neve, professor of economics and behavioral science at Oxford’s Saïd Business School and a publisher of the World Happiness Report. “That's really disconcerting because then, obviously, it begs the question, where's it going to go from here?”
 
-#### What is causing the dissatisfaction?
+#### **What is causing the dissatisfaction?**
 
 Young millennials and Gen Zers said everything from crippling debt and inflated rent prices to social media's comparison culture has left them exhausted and unsatisfied.
 
@@ -43,7 +46,7 @@ David Rosmarin, the founder of the Center for Anxiety and an associate professor
 
 “I can't count the number of college students coming to our programs who are losing semesters because of their mental health,” said Rosmarin, whose clinics operate in three states across the Northeast. “Every dean who I've spoken to has an inbox full of mental health leave requests.”
 
-#### Will this only get worse?
+#### **Will this only get worse?**
 
 Researchers say one of the best predictors of adult happiness is happiness as a child and as a teenager. And happiness and satisfaction levels are related to people’s physical health, academic achievement, civic engagement and financial earnings.
 
@@ -57,7 +60,7 @@ Aknin, the Canadian professor, said it's unknown what the results on this trend 
 
 "If people are starting low, is it only going to get worse before it gets better? I'm not sure we know," she said. "I think there might be multiple outcomes."
 
-#### Optimism for the young
+#### **Optimism for the young**
 
 Santos, who teaches Yale's most popular class, “Psychology and the Good Life,” said that while the report’s findings were similar to what she’s found in her interaction with students – increased isolation, stress and burnout – there is room for optimism.
 
