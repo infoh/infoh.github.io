@@ -8,7 +8,7 @@ title:  "The young are now most unhappy people in the United States, new report 
 
 
 1. [Part 1](#part-1)
-2. [Part 2](#part-2)
+2. [Will this only get worse?](#Will this only get worse?)
 3. [Optimismfortheyoung](#Optimismfortheyoung)
 
 Christopher Cann, USA TODAY, March 21, 2024
@@ -44,7 +44,7 @@ David Rosmarin, the founder of the Center for Anxiety and an associate professor
 
 “I can't count the number of college students coming to our programs who are losing semesters because of their mental health,” said Rosmarin, whose clinics operate in three states across the Northeast. “Every dean who I've spoken to has an inbox full of mental health leave requests.”
 
-#### PART 2
+#### Will this only get worse?
 Researchers say one of the best predictors of adult happiness is happiness as a child and as a teenager. And happiness and satisfaction levels are related to people’s physical health, academic achievement, civic engagement and financial earnings.
 
 This correlation is fueling concerns that as teenagers and young adults in the U.S. get older, their dissatisfaction may only worsen, as history suggests.
