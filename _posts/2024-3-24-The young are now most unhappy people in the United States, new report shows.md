@@ -9,7 +9,7 @@ title:  "The young are now most unhappy people in the United States, new report 
 
 1. [Part 1](#part-1)
 2. [Part 2](#part-2)
-3. [Footnotes](#footnotes)
+3. [Optimism for the young](#Optimismfortheyoung)
 
 Christopher Cann, USA TODAY, March 21, 2024
 
@@ -57,7 +57,7 @@ Aknin, the Canadian professor, said it's unknown what the results on this trend 
 
 "If people are starting low, is it only going to get worse before it gets better? I'm not sure we know," she said. "I think there might be multiple outcomes."
 
-##### FOOTNOTES
+#### Optimismfortheyoung
 Santos, who teaches Yale's most popular class, “Psychology and the Good Life,” said that while the report’s findings were similar to what she’s found in her interaction with students – increased isolation, stress and burnout – there is room for optimism.
 
 First, not all countries saw plummeting levels of well-being. Young people in central and eastern Europe, as well as parts of sub-Saharan Africa, reported increases in happiness, the report showed. Experts said it’s not clear why these regions are experiencing the opposite trend as the U.S., Canada and other English-speaking counties, but their results show this is not an entirely global phenomenon.
