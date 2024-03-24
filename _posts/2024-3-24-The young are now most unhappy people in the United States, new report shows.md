@@ -8,7 +8,7 @@ title:  "The young are now most unhappy people in the United States, new report 
 
 
 1. [Part 1](#part-1)
-2. [Will this only get worse?](#Will this only get worse?)
+2. [Will this only get worse?](#Will-this-only-get-worse?)
 3. [Optimismfortheyoung](#Optimismfortheyoung)
 
 Christopher Cann, USA TODAY, March 21, 2024
