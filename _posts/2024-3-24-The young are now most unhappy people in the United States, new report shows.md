@@ -8,7 +8,6 @@ Christopher Cann, USA TODAY, March 21, 2024
 
 <br />
 
-Table of Contents
 * content
 {:toc}
 
