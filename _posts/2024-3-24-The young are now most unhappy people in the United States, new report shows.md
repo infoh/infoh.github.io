@@ -9,7 +9,7 @@ title:  "The young are now most unhappy people in the United States, new report 
 
 1. [Part 1](#part-1)
 2. [Part 2](#part-2)
-3. [Optimism for the young](#Optimismfortheyoung)
+3. [Optimismfortheyoung](#Optimismfortheyoung)
 
 Christopher Cann, USA TODAY, March 21, 2024
 
