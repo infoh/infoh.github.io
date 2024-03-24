@@ -18,6 +18,7 @@ Table of Contents
 2. [Will this only get worse?](#will-this-only-get-worse)
 3. [Optimism for the young](#optimism-for-the-young)
 <br />
+
 Happiness and well-being among Americans has recently plummeted and a new cohort is leading the downward spiral: young people.
 
 The World Happiness Report released Wednesday showed that self-reported data from those under 30 knocked the U.S. out of the top 20 happiest countries for the first time since the annual report was initially published in 2012.
