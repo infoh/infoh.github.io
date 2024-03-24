@@ -3,9 +3,12 @@ layout: post
 title:  "The young are now most unhappy people in the United States, new report shows"
 ---
 Christopher Cann, USA TODAY, March 21, 2024
+
 *A new World Happiness Report shows that young people are the most unhappy among Americans.*
 
+<br />
 
+Table of Contents
 * content
 {:toc}
 
