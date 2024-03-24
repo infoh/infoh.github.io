@@ -3,13 +3,13 @@ layout: post
 title:  "The young are now most unhappy people in the United States, new report shows"
 ---
 Christopher Cann, USA TODAY, March 21, 2024
-
 *A new World Happiness Report shows that young people are the most unhappy among Americans.*
 
 
 * content
 {:toc}
 
+<br />
 
 Happiness and well-being among Americans has recently plummeted and a new cohort is leading the downward spiral: young people.
 
@@ -22,6 +22,8 @@ Young Americans who spoke with USA TODAY pointed to the economy, the cost of hou
 Recent studies have shown suicide rates among young people in the U.S. has surged, especially after the COVID-19 pandemic. Experts have also begun to sound the alarm over what many consider to be an epidemic of loneliness among America’s teenagers and young adults, which has coincided with a rise in virtual school and remote work. But researchers agree that there’s no one cause for the decline, rather a cluster of factors that’s driving young people to dissatisfaction levels associated with those who typically are at least a decade older.
 
 “Youths have reached the point of a midlife crisis – today,” said Jan-Emmanuel De Neve, professor of economics and behavioral science at Oxford’s Saïd Business School and a publisher of the World Happiness Report. “That's really disconcerting because then, obviously, it begs the question, where's it going to go from here?”
+
+<br />
 
 #### **What is causing the dissatisfaction?**
 Young millennials and Gen Zers said everything from crippling debt and inflated rent prices to social media's comparison culture has left them exhausted and unsatisfied.
@@ -40,6 +42,8 @@ David Rosmarin, the founder of the Center for Anxiety and an associate professor
 
 “I can't count the number of college students coming to our programs who are losing semesters because of their mental health,” said Rosmarin, whose clinics operate in three states across the Northeast. “Every dean who I've spoken to has an inbox full of mental health leave requests.”
 
+<br />
+
 #### **Will this only get worse?**
 Researchers say one of the best predictors of adult happiness is happiness as a child and as a teenager. And happiness and satisfaction levels are related to people’s physical health, academic achievement, civic engagement and financial earnings.
 
@@ -53,7 +57,9 @@ Aknin, the Canadian professor, said it's unknown what the results on this trend 
 
 "If people are starting low, is it only going to get worse before it gets better? I'm not sure we know," she said. "I think there might be multiple outcomes."
 
-### Optimism for the young
+<br />
+
+#### **Optimism for the young**
 Santos, who teaches Yale's most popular class, “Psychology and the Good Life,” said that while the report’s findings were similar to what she’s found in her interaction with students – increased isolation, stress and burnout – there is room for optimism.
 
 First, not all countries saw plummeting levels of well-being. Young people in central and eastern Europe, as well as parts of sub-Saharan Africa, reported increases in happiness, the report showed. Experts said it’s not clear why these regions are experiencing the opposite trend as the U.S., Canada and other English-speaking counties, but their results show this is not an entirely global phenomenon.
