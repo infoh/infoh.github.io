@@ -3,13 +3,14 @@ layout: post
 title:  "The young are now most unhappy people in the United States, new report shows"
 ---
 
+* content
 {:toc}
 
 
 #### Table of Contents
-1. [**What is causing the dissatisfaction?**](#**What is causing the dissatisfaction?**)
-2. [Will this only get worse?](#Will this only get worse?)
-3. [Optimism for the young](#Optimism for the young)
+1. [What is causing the dissatisfaction?](#What-is-causing-the-dissatisfaction?)
+2. [Will this only get worse?](#Will-this-only-get-worse?)
+3. [Optimism for the young](#Optimism-for-the-young)
 
 
 Christopher Cann, USA TODAY, March 21, 2024
